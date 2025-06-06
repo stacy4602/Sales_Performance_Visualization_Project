@@ -8,6 +8,8 @@ An interactive data visualization app built using **Preswald**, **Plotly**, and 
 
 ---
 
+### Data Report: [Live](https://preswald.app/p1d3f673a)
+
 ## 🚀 Features
 
 - 📁 Load CSV data with Preswald's `get_df` functionality
